@@ -1,4 +1,4 @@
-# ABOUT
+# About
 Online multiplayer Tron game for several players.
 
 # Running the solution
